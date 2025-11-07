@@ -1,5 +1,4 @@
 staffattendance
-
 Great! The build completed successfully. Your project is now ready for deployment. Here's the complete guide to host on Render:
 
 Step 1: Push to GitHub
