@@ -30,7 +30,7 @@ export function AdminLogin() {
           <img src="/Logo for RHEMA PREP.J.H.S - Traditional Emblem.png" alt="RHEMA Logo" className="h-20 w-20" />
         </div>
 
-        <h1 className="text-3xl font-bold text-center text-gray-800 mb-2">RHEMA PREP</h1>
+        <h1 className="text-3xl font-bold text-center text-gray-800 mb-2">RHEMA PREP/JHS</h1>
         <p className="text-center text-gray-600 mb-8">Admin Portal</p>
 
         <form onSubmit={handleSubmit} className="space-y-4">
